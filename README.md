@@ -1,4 +1,4 @@
-WoofWorks Knowledge Base
+# WoofWorks Knowledge Base
 
 Version: 1.0
 Author: [Your Name]
